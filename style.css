@@ -1,0 +1,53 @@
+body
+{
+    background-color: rgb(6, 4, 7);
+}
+
+h1
+{
+    font-family: sans-serif;
+    color: whitesmoke;
+    text-shadow: 0 0 10px purple;
+    text-align: center;
+    font-size: 52px;
+}
+
+input
+{
+    font-family: sans-serif;
+    color: whitesmoke;
+    border-radius: 30px;
+    text-shadow: 0 0 10px purple;
+    background-color: rgb(88, 88, 88);
+    text-align: center;
+    font-size: 25px; 
+    background-color: purple;
+}
+
+button
+{
+    background-color: purple;
+    font-family: sans-serif;
+    color: whitesmoke;
+    border-radius: 30px;
+    text-shadow: 0 0 10px magenta;
+    box-shadow: 0 0 10px purple;
+}
+
+button:hover
+{
+    background-color: rgb(109, 5, 109);
+    box-shadow: 20px;
+}
+
+button:active
+{
+    box-shadow: 0 0 0px purple;
+}
+
+div.center
+{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
