@@ -1,5 +1,5 @@
 let answers =["Yes", "mostlikley", "maybe", "unknown", "slightly unlikley", "unlikley", "no"];
-let amount = answers.length - 1;
+let amount = answers.length;
 let chocie = 0;
 let previous_choice = 0;
 
