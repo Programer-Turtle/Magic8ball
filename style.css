@@ -32,6 +32,7 @@ button
     border-radius: 30px;
     text-shadow: 0 0 10px magenta;
     box-shadow: 0 0 10px purple;
+    margin-left: 5px;
 }
 
 button:hover
